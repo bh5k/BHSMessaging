@@ -1,6 +1,6 @@
-package com.barclays.BHSMessaging.controller;
+package com.barclays.controller;
 
-import com.barclays.BHSMessaging.model.Message;
+import com.barclays.model.Message;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -13,7 +13,7 @@ public class MessageController {
         Message message = new Message();
         message.setContent("Spring is awesome!");
         messages.add(message);
-        
+
         return messages;
     }
 

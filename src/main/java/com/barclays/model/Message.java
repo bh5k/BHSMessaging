@@ -1,4 +1,4 @@
-package com.barclays.BHSMessaging.model;
+package com.barclays.model;
 
 public class Message {
 
