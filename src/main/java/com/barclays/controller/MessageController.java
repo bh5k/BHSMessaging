@@ -1,6 +1,6 @@
-package com.barclays.BHSMessaging.controller;
+package com.barclays.controller;
 
-import com.barclays.BHSMessaging.model.Message;
+import com.barclays.model.Message;
 
 import java.util.ArrayList;
 import java.util.List;
